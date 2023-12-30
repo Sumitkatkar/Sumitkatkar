@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkatkar&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkatkar" /> </p>
 
-- Hi, This is sumit and i work on some projects related to DevOps and Java that you can find in my repo or by clicking the link [https://github.com/Sumitkatkar?tab=repositories](https://github.com/Sumitkatkar?tab=repositories)
+- 💻 Hi, This is sumit and i work on some projects related to DevOps and Java that you can find in my repo or by clicking the link [https://github.com/Sumitkatkar?tab=repositories](https://github.com/Sumitkatkar?tab=repositories)
 
 - 🌱 I’m currently learning **DevOps**
 
